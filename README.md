@@ -1,5 +1,5 @@
 # JavaScript-Algorithms-and-Data-Structures
-This repository contains my completed projects and exercises as part of my ongoing study and review of core JavaScript concepts, I worked through practical problems that reinforce JavaScript fundamentals, algorithmic thinking, and programming paradigms. Throughout the Summer of 2025, I’ll continue expanding this repository with new challenges, data manipulation tasks, and interactive projects.
+This repository contains my completed projects and exercises as part of my ongoing study and review of core JavaScript concepts, I worked through practical problems that reinforce JavaScript fundamentals, algorithmic thinking, and programming paradigms. Throughout 2025, I’ll continue expanding this repository with new challenges, data manipulation tasks, and interactive projects.
 
 ## 🧰 Technologies & Concepts Covered:
 - JavaScript (ES6+)
